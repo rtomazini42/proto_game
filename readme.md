@@ -1,0 +1,1 @@
+Pequeno projeto para estudar algumas funções de game design do Godot
